@@ -1,0 +1,24 @@
+{
+  "name": "willzookeeper",
+  "version": "1.0.0",
+  "description": "Module 11 Lesson",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyork63/willzookeeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyork63/willzookeeper/issues"
+  },
+  "homepage": "https://github.com/wyork63/willzookeeper#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
